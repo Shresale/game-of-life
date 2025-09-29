@@ -1,5 +1,6 @@
-## Usage
-```bash
-git clone <repo>
-cd <repo>
-python3 main.py
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [License](#license)
